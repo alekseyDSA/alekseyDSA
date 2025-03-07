@@ -54,8 +54,7 @@
 - **Инструмент для автоматизации установки ПО и выполнения команд** для Linux и Windows.
 
 ## Контакты
-- GitHub: [ссылка на ваш профиль GitHub]
-- LinkedIn: [ссылка на ваш профиль LinkedIn]
+- telegram: AlekseyDsa
 
 ---
 
@@ -115,5 +114,4 @@ I am a programmer with a wide range of skills, including web development, databa
 - **Automation tool for installing software and running commands** for both Linux and Windows.
 
 ## Contacts
-- GitHub: [Your GitHub profile link]
-- LinkedIn: [Your LinkedIn profile link]
+- telegram: @alekseyDsa
